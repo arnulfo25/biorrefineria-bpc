@@ -1,0 +1,13 @@
+Reactivo,Costo_USD,Proveedor,Notas
+"Enzimas restriccion (BsaI, BsmBI, EcoRI, XhoI)",20,NEB,HF High Fidelity
+T4 DNA Ligase,0.80,NEB,No necesaria para Golden Gate
+Polimerasa PCR (Q5/Phusion/KAPA),50,NEB/Roche,Alta fidelidad
+Gibson Assembly mix,35,NEB,Alternativa a Golden Gate
+Plasmidos backbone (Yeast Toolkit),0,Addgene,#1000000044 open source
+Cas9 plasmido,0,Addgene,#60847
+dCas9-Mxi1,0,Addgene,#71236
+sgRNA scaffold,5,Sintesis oligos,
+Purificacion DNA (miniprep+gel+PCR),150,Qiagen/Zymo,50 muestras
+Celulas competentes (DH5alpha),30,NEB/Invitrogen/Agilent,20 muestras
+Secuenciacion (~20 genes x 3 rxn),600,Genewiz/Eurofins,Servicio externo
+TOTAL REACTIVOS,275,,

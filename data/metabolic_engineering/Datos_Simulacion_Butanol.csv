@@ -1,0 +1,9 @@
+Parametro,Valor,Unidad,Notas
+Rendimiento maximo butanol,0.35,g butanol / g glucosa,Teorico
+Rendimiento optimizado,0.40,g butanol / g glucosa,Con optimizacion de flujo
+Productividad,0.66,g/L/h,48h fermentacion
+Glucosa consumida,90,g/L,De 100 g/L inicial
+Butanol producido,31.5,g/L,Antes de toxicidad
+Limite toxicidad butanol,15,g/L,Maximo tolerado por S. cerevisiae
+NADH consumido total,3,mol/mol butanol,hbd + ter + adhE2
+Cuello de botella,crt,reaccion neutra,dG = +3.1 kJ/mol

@@ -1,0 +1,9 @@
+Parametro,Valor,Unidad,Notas
+Rendimiento maximo PHA,0.38,g PHA / g glucosa,Teorico
+Rendimiento optimizado,0.42,g PHA / g glucosa,Con optimizacion de flujo
+Productividad,0.50,g/L/h,72h fermentacion
+Glucosa consumida,95,g/L,De 100 g/L inicial
+PHA producido,36.1,g/L,
+Limite acumulacion,50,% peso seco,PHA maximo en biomasa
+NADPH consumido,1,mol/mol PHA,Solo phaB
+Cuello de botella,phaB,requiere NADPH,Limitado en levaduras

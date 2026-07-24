@@ -1,0 +1,6 @@
+Gen,Enzima,Sustrato,Producto,Cofactor,dG_kJ_mol,Estado_Termodinamico
+thl,Tiolasa,2 Acetil-CoA,Acetoacetil-CoA,-,-5.2,Favorable
+hbd,3-hidroxibutiril-CoA deshidrogenasa,Acetoacetil-CoA,3-hidroxibutiril-CoA,NADH,-18.7,Favorable
+crt,Crotonasa,3-hidroxibutiril-CoA,Crotonil-CoA,-,3.1,Neutro
+ter,Trans-enoil-CoA reductasa,Crotonil-CoA,Butiril-CoA,NADH,-25.4,Favorable
+adhE2,Aldehido/alcohol deshidrogenasa,Butiril-CoA,Butanol,NADH,-32.1,Favorable

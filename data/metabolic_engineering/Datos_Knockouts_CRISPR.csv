@@ -1,0 +1,7 @@
+Gen,Funcion_Nativa,Intervencion,Fase,Costo_USD,Notas
+ADH1,Alcohol deshidrogenasa principal,KO / CRISPRi,2,5,Elimina competencia por etanol
+ADH2,Alcohol deshidrogenasa (oxidacion),KO / CRISPRi,4,5,Elimina oxidacion de etanol
+GPD1,Glicerol-3-fosfato deshidrogenasa,KO / CRISPRi,2,5,Reduce formacion de glicerol
+GPD2,Isoenzima paraloga de GPD1,KO / CRISPRi,4,5,Completa eliminacion de glicerol
+PDC1,Piruvato descarboxilasa,CRISPRi (no KO),4,5,Mantener viabilidad celular
+GRE3,Aldosa reductasa,KO,5,5,Solo si se usa xilosa

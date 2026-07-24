@@ -1,0 +1,9 @@
+Organismo,Funcion,Modelo_Matematico,Parametros_Clave
+Aspergillus niger,Hidrolisis enzimatica,Haldane (inhibicion sustrato),"Vmax=8, Km=10, Ki=50"
+Pichia stipitis,Fermentacion pentosas,Monod dual (glucosa+xilosa),"muG=0.30, muX=0.25, Yps=0.40, Pm=80"
+Clostridium thermocellum,CBP solubilizacion celulosa,Monod modificada,"mu=0.15, Ks=10, Yps=0.35"
+Fusarium oxysporum,Bioconversion RSM,Superficie respuesta cuadratica,"b=[0.2,0.01,0.1,-0.0002,-0.05,0.005]"
+T. thermosaccharolyticum,Produccion hidrogeno,Gompertz modificado,"Ppot=50, Rm=5, lambda=10"
+Aspergillus ochraceus,Efecto ambiental,Gaussiano,"T_opt=37, sigma=8"
+Schizosaccharomyces pombe,Fermentacion glucosa,Monod,"mu=0.35, Yps=0.45, Pm=100"
+Chlorella vulgaris,Biodiesel,Proporcional biomasa,0.55 * biomasa

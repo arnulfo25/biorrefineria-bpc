@@ -1,0 +1,12 @@
+Variable,Descripcion,Valor_Referencia
+X1,Fraccion bagazo cana,0.472
+X2,Fraccion bagazo pina,0.178
+X3,Fraccion otros,0.350
+b1,Coeficiente X1,5.191
+b2,Coeficiente X2,4.1975
+b3,Coeficiente X3,4.6575
+b12,Coeficiente X1*X2,-1.417
+b13,Coeficiente X1*X3,0.433
+b23,Coeficiente X2*X3,-0.93
+b123,Coeficiente X1*X2*X3,18.3107
+Y_teorico,Rendimiento teorico (%),5.26

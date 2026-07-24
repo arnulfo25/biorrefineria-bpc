@@ -1,0 +1,4 @@
+Gen,Enzima,Sustrato,Producto,Cofactor,dG_kJ_mol,Estado_Termodinamico
+phaA,3-cetoacil-CoA tiolasa,2 Acetil-CoA,Acetoacetil-CoA,-,-5.2,Favorable
+phaB,Acetoacetil-CoA reductasa,Acetoacetil-CoA,(R)-3-hidroxibutiril-CoA,NADPH,-18.7,Favorable
+phaC,PHA sintasa (Clase I),(R)-3-hidroxibutiril-CoA,PHA (P(3HB)),-,-42.3,Favorable

@@ -1,0 +1,8 @@
+Gen,Funcion,Organismo_Origen,Longitud_bp,Fase,Prioridad,Promotor,Terminador,Costo_USD,NCBI_Accession
+thl,Acetil-CoA acetiltransferasa (Tiolasa),Clostridium acetobutylicum,1188,1,Alta,pTEF1,tCYC1,45,AAA23234.1
+hbd,3-hidroxibutiril-CoA deshidrogenasa,Clostridium acetobutylicum,864,1,Alta,pTDH3,tADH1,35,AAA23235.1
+crt,Crotonasa (enoyl-CoA hidratasa),Clostridium acetobutylicum,795,1,Alta,pTEF2,tPGK1,30,AAA23236.1
+ter,Trans-enoil-CoA reductasa,Treponema denticola,1476,2,Media-Alta,pPGK1,tTEF1,65,-
+adhE2,Aldehido/alcohol deshidrogenasa bifuncional,Clostridium acetobutylicum,2628,2,Media-Alta,pHXT7,tCYC1,110,AAA23237.1
+yqhD,Alcohol deshidrogenasa NADPH-dependiente,Escherichia coli,1047,4,Media,pRPL18B,tADH1,50,NP_417766.1
+bldh,Butiraldehido deshidrogenasa,Clostridium spp.,1140,4,Media,pTEF1,tCYC1,55,-

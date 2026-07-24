@@ -1,0 +1,20 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+~$*
+*.mex*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files (not for repo)
+*.pages
+*.pdf
+*.docx
+*.rtf
+
+# Temporary
+*.tmp
+*.log

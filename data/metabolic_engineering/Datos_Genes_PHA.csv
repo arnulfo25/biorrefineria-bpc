@@ -1,0 +1,5 @@
+Gen,Funcion,Organismo_Origen,Longitud_bp,Fase,Prioridad,Promotor,Terminador,Costo_USD,NCBI_Accession
+phaA,3-cetoacil-CoA tiolasa,Cupriavidus necator,1179,3,Alta,pTEF1,tCYC1,45,AAA21949.1
+phaB,Acetoacetil-CoA reductasa,Cupriavidus necator,744,3,Alta,pTDH3,tADH1,30,AAA21950.1
+phaC,PHA sintasa (Clase I),Cupriavidus necator,1890,3,Alta,pTEF2,tPGK1,80,AAA21951.1
+phaCBP-M-CPF4,PHA sintasa copolimeros,Cupriavidus necator,1890,6,Media-Baja,pADH1,tCYC1,85,-

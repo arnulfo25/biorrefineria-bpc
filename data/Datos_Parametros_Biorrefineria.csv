@@ -1,0 +1,21 @@
+Parametro,Valor,Unidad,Fuente
+Capacidad cana,9200,t/dia,Diseno
+Capacidad pina,2000,t/dia,Diseno
+Bagazo cana (25%),2300,t/dia,Calculado
+Bagazo pina (22%),440,t/dia,Calculado
+Bagazo total,2740,t/dia,Calculado
+M_base simulacion,1000,kg,Script v6
+Volumen fermentador,5000,L,Script v6
+Pct celulosa,42,%,Composicion bagazo
+Pct hemicelulosa,25,%,Composicion bagazo
+Pct lignina,20,%,Composicion bagazo
+k pretratamiento hemicelulosa,0.08,1/h,Cinetica 1er orden
+k deslignificacion,0.06,1/h,Cinetica 1er orden
+Vmax sacarificacion (A. niger),8,kg/h,Haldane
+Km sacarificacion,10,kg,Haldane
+Ki sacarificacion,50,kg,Haldane
+Temperaturas evaluadas,"30,37,45",C,Diseno experimental
+Aireacion evaluada,"0.5,1.0,1.5",vvm,Diseno experimental
+pH evaluados,"4.5,5.5,6.5",-,Script v2
+Replicas,20-100,-,Segun version
+Tiempo simulacion,72,h,Script v6

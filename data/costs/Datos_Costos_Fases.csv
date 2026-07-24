@@ -1,0 +1,9 @@
+Fase,Descripcion,Genes,Costo_Genes_USD,Costo_Ensamblaje_USD,Costo_Total_USD,Tiempo_Semanas
+1,Butanol Core,"thl, hbd, crt",110,15,125,4
+2,Ruta completa + Knockouts,"ter, adhE2, ADH1 KO, GPD1 KO",175,10,185,6
+3,Modulo PHA basico,"phaA, phaB, phaC",155,0,155,5
+4,Consortio + Optimizacion,"yqhD, ADH2 KO, GPD2 KO, PDC1 CRISPRi",60,10,70,8
+5,Modulo Xilosa (Opcional),"xylA, XKS1, GRE3 KO",85,5,90,6
+6,Copolimeros avanzados (Opcional),phaCBP-M-CPF4,85,15,100,4
+TOTAL Fases 1-4,,11 genes + 4 KO,500,35,535,23
+TOTAL Fases 1-6,,13 genes + 5 KO,670,55,725,33
