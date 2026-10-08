@@ -73,7 +73,7 @@ If you use this code or data, please cite:
 > Villanueva-Castillo A, García-López RB, Pastelín-Rojas CF, et al. (2026).
 > Integrated in silico biorefinery for the valorization of agro-industrial
 > waste through microbial consortia and metabolic engineering.
-> *Biomass Conversion and Biorefinery* [submitted].
+> *Biochemical Engineering Journal* [submitted].
 
 ## Contact
 
